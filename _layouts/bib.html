@@ -103,7 +103,6 @@
               "
           >{{more_authors_hide}}</span>
         {%- endif -%}
-
         </div>
 
         <!-- Journal/Book title and date -->
@@ -127,11 +126,14 @@
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
-          {{ periodical | strip }}
+        	{{ periodical | strip }} 
+		{%- if entry.note -%}
+			, <b><font color="red">{{ entry.note | strip }}</font></b>
+		{%- endif -%} 
         </div>
-        <div class="periodical">
+        <!--<div class="periodical">
           {{ entry.note | strip }}
-        </div>
+        </div>-->
 
           <!-- Links/Buttons -->
           <div class="links">
