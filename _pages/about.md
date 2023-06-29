@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Associate Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and Senior Lecturer (Associate Professor) at the School of Electronic Engineering and Computer Science of Queen Mary University of London.
 
-My research interests cover a broad spectrum of topics in both networks and systems: end-host networking, programmable hardware and fast packet-processing. Details of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=3VedTqcAAAAJ&hl=en) or my [publications page](/al-folio/publications/).
+My research interests cover a broad spectrum of topics in both networks and systems: end-host networking, programmable hardware and fast packet-processing. Details of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=3VedTqcAAAAJ&hl=en) or my [publications page](/publications/).
 
 My research has been awarded with the best paper at ACM SIGCOMM 2017, the EPSRC New Investigator, the Facebook Networking Systems Research RFP 2020, the ACM SIGCOMM 2020 Student Research competition with [Sebastiano Miano](https://sebymiano.github.io/) and the ACM CoNEXT best poster 2021.
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)-->
