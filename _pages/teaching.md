@@ -7,10 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-I am currently **teaching** the following modules at Politecnico di Milano:
-- 2022 - present: 058172 Network Computing
+I am currently teaching the following modules at Politecnico di Milano:
+- since 2022: **058172 Network Computing**
 	- if you are a Polimi student, you can find more information [here](https://webeep.polimi.it/course/view.php?id=9734) for the academic year 22/23
-- 2022 - present: 052458 Tecnologie Digitali 2
+- since 2022: **052458 Tecnologie Digitali 2**
 	- if you are a Polimi student, you can find more information [here](https://webeep.polimi.it/course/view.php?id=9897) for the academic year 22/23
 
 <br>
