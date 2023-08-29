@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Stefano Bordeianu joins our group to do his final year project on studying the performance characteristics of _IO URING_
+Stefano Bordeianu joins our group to do his final year project on understanding the performance characteristics of <i>io uring</i>
