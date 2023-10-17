@@ -14,6 +14,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Alireza Sanaee](https://sarsanaee.github.io): PhD student since 2020 @ Queen Mary University of London
 - [Jonatan Langlet](https://langlet.io/): PhD student since 2020 @ Queen Mary University of London
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/): PhD student since 2017 @ University of Cambridge co-advised with Andrew W. Moore
+- [Guorui Xie](https://xgr19.github.io/): Visiting PhD student from Tsinghua University
 - [Stefano Bordeianu](): Final year project student @ Politenico di Milano
 <br>
 <br>      
