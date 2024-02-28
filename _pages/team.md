@@ -16,6 +16,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/): PhD student since 2017 @ University of Cambridge co-advised with Andrew W. Moore
 - [Guorui Xie](https://xgr19.github.io/): Visiting PhD student from Tsinghua University @ Politenico di Milano
 - [Stefano Bordeianu](): Final year project student @ Politenico di Milano
+- [Pasquale Scalise](): Final year project student @ Politenico di Milano
 <br>
 <br>      
 
