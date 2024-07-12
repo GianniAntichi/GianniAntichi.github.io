@@ -16,6 +16,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Guorui Xie](https://xgr19.github.io/): Visiting PhD student from Tsinghua University @ Politenico di Milano (since 2023)
 - [Stefano Bordeianu](): Final year project student @ Politenico di Milano (since 2023)
 - [Pasquale Scalise](): Final year project student @ Politenico di Milano (since 2024)
+- [Marco Molè](): Final year project student @ Politenico di Milano (since 2024)
 <br>
 <br>      
 
