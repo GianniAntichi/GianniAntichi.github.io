@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.polimi.it/'>Politecnico di Milano (IT)</a> and <a href='https://www.qmul.ac.uk/'>Queen Mary University of London (UK)</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Electronics, Information and Bioengineering</p>
+    <p>Room 18, Building 20</p>
+    <p>Via Giuseppe Ponzio, 34</p>
+    <p>Milano 20133, IT</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Associate Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and Senior Lecturer (Associate Professor) at the School of Electronic Engineering and Computer Science of Queen Mary University of London.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests cover a broad spectrum of topics in both **networks** and **systems**. Specifically, end-host network stacks, programmable hardware and network monitoring. Details of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=3VedTqcAAAAJ&hl=en) or my [publications page](/publications/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research has been awarded with the best paper at ACM SIGCOMM 2017, the UK Engineering & Physical Sciences Research Council (EPSRC) New Investigator, the Facebook Networking Systems Research 2020, the ACM SIGCOMM 2020 Student Research competition with [Sebastiano Miano](https://sebymiano.github.io/) and the ACM CoNEXT best poster 2021.
+
+I am *always* looking for motivated students. If you have interests similar to mine, feel free to reach out!
