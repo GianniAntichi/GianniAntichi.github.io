@@ -25,4 +25,4 @@ My research interests cover a broad spectrum of topics in both **networks** and 
 
 My research has been awarded with the best paper at ACM SIGCOMM 2017, the UK Engineering & Physical Sciences Research Council (EPSRC) New Investigator, the Facebook Networking Systems Research 2020, the ACM SIGCOMM 2020 Student Research competition with [Sebastiano Miano](https://sebymiano.github.io/) and the ACM CoNEXT best poster 2021.
 
-I am *always* looking for motivated students. If you have interests similar to mine, feel free to reach out!
+I am _always_ looking for motivated students. If you have interests similar to mine, feel free to reach out!
