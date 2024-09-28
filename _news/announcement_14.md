@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to the [ACM HotNets 2024](https://conferences.sigcomm.org/hotnets/2024/) program committee! Submit your papers! 
-
+Invited to the [ACM HotNets 2024](https://conferences.sigcomm.org/hotnets/2024/) program committee! Submit your papers!
