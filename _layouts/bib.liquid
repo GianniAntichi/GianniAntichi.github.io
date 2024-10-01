@@ -22,13 +22,8 @@
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded-pill w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
-        {%- if entry.note -%}
-          <abbr class="badge rounded-pill w-100" style="color: black !important; background-color: lightblue; font-weight: 400;">
-            {{- entry.note -}}
-          </abbr>
-        {%- endif -%}
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
@@ -183,11 +178,9 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <!--
-      <div class="periodical">
-        {{ entry.note | strip }}
-      </div>
-    -->
+    <div class="periodical">
+      {{ entry.note | strip }}
+    </div>
 
     <!-- Links/Buttons -->
     <div class="links">
