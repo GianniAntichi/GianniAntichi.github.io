@@ -9,25 +9,47 @@ nav_order: 2
 
 I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most of my projects are focussed on real-world problems. Please drop me a mail if you're interested in brainstorming topics.
 
-**Current members:**
+<hr>
 
-- [Farbod Shahinfar](https://fshahinfar1.github.io/): PhD student @ Politecnico di Milano (since 2023)
-- [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/): PhD student @ University of Cambridge co-advised with Andrew W. Moore (since 2017)
-- [Francesco Tranquillo](): Final year project student @ Politenico di Milano (since 2024)
-- [Marco Molè](): Final year project student @ Politenico di Milano (since 2024)
-- [Pasquale Scalise](): Final year project student @ Politenico di Milano (since 2024)
-- [Stefano Bordeianu](): Final year project student @ Politenico di Milano (since 2023)
+## Current Members
 
 <br>
+
+### PhD Students
+
+- [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
+- [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems
+
+### Graduate Students
+
+- [Francesco Tranquillo]() (2024-): enabling P4 offloads in OpenNIC
+- [Marco Molè]() (2024-): enabling XDP support on OpenNIC driver
+- [Pasquale Scalise]() (2024-): L7 processing in the Linux kernel
+- [Stefano Bordeianu]()(2023-): performance characterization of io_uring
+
+<hr>
+
+## Past Members
+
 <br>
 
-_Past Members:_
+### PhD alumni
 
-- Guorui Xie: Visiting PhD student from Tsinghua University @ Politenico di Milano in 2024
-- Alireza Sanaee: PhD student @ Queen Mary University of London from 2020 till 2024 (viva done 25th September 2024)
-- Jonatan Langlet: PhD student @ Queen Mary University of London from 2020 till 2024 (viva done 14th July 2024)
-- Sebastiano Miano: PostDoc @ Queen Mary University of London from 2020 till 2023
-- Giulio Sidoretti: Visiting PhD student @ Queen Mary University of London in 2022
-- Christos Nikolaou: Research assistant @ Queen Mary University of London from 2018 till 2021
-- Michal Orsàk: Visiting PhD student @ Queen Mary University of London in 2020
-- Xiangrui Yang: Visiting PhD student @ Queen Mary University of London in 2020
+- Jonatan Langlet (2020-2024)
+  - PhD thesis title: "Telemetry for Next-Generation Networks"
+  - First job after graduation: Postdoctoral researcher at the NSLab (KTH Royal Institute of Technology)
+- Alireza Sanaee (2020-2024)
+  - PhD thesis title: "Low Latency Software Data-Plane Design for Cloud Data Center End-hosts"
+  - First job after graduation: Linux kernel engineer at Huawei Research Cambridge
+
+### Research associates/assistants
+
+- Sebastiano Miano (July 2020, 3 years)
+- Christos Nikolaou (June 2019, 1 year)
+
+### Research visitors
+
+- Guorui Xie (October 2023, 1 year), Tsinghua University, China
+- Giulio Sidoretti (July 2022, 5 months), University of Rome Tor Vergata, Italy
+- Michal Orsàk (March 2019, 4 months), Brno University Technology, Czech Republic
+- Xiangrui Yang (September 2019, 1 year), National University Defense Technology, China
