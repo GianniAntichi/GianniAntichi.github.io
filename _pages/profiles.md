@@ -17,6 +17,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### PhD Students
 
+- [Andrea Motta]() (2024-), smartNICs design
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems
 
