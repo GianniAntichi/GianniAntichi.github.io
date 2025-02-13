@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Aqua: Mitigating Bursts of LLM Inference Queries with Efficient Preemption</i> got accepted at <b>ACM ASPLOS</b>! The work was led by [Abhishek Vijaya Kumar](https://www.cs.cornell.edu/~abhishek/).
+<i>Aqua: Network-Accelerated Memory Offloading for LLMs in Scale-Up GPU Domains</i> got accepted at <b>ACM ASPLOS</b>! The work was led by [Abhishek Vijaya Kumar](https://www.cs.cornell.edu/~abhishek/).
