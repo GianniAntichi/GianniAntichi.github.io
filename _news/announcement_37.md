@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Enabling Virtual Priority in Data Center Congestion Control</i> won the Best Student Paper Award at ACM EuroSys 2025! The work was led by [Zhaochen Zhang]().
+<i>Enabling Virtual Priority in Data Center Congestion Control</i> won the <b>Best Student Paper Award</b> at <b>ACM EuroSys 2025</b>! The work was led by [Zhaochen Zhang]().
