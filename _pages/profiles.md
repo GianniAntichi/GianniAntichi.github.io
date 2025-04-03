@@ -15,6 +15,10 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 <br>
 
+### Postdoctoral Researchers
+
+- [Filippo Carloni]() (2025-), NIC acceleration
+
 ### PhD Students
 
 - [Andrea Motta]() (2024-), smartNICs design (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
@@ -23,10 +27,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Graduate Students
 
-- [Francesco Tranquillo]() (2024-): enabling P4 offloads in OpenNIC
-- [Marco Molè]() (2024-): enabling XDP support on OpenNIC driver
-- [Pasquale Scalise]() (2024-): L7 processing in the Linux kernel
-- [Stefano Bordeianu]()(2023-): performance characterization of io_uring
+- Open positions available
 
 <hr>
 
@@ -45,12 +46,19 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Research associates/assistants
 
-- Sebastiano Miano (July 2020, 3 years)
-- Christos Nikolaou (June 2019, 1 year)
+- Sebastiano Miano (2020-2023)
+- Christos Nikolaou (2019-2020)
+
+### Graduate students
+
+- Francesco Tranquillo (thesis defended April 2025)
+- Marco Molè (thesis defended April 2025)
+- Stefano Bordeianu (thesis defended April 2025)
+- Pasquale Scalise (thesis defended April 2025)
 
 ### Research visitors
 
-- Guorui Xie (October 2023, 1 year), Tsinghua University, China
-- Giulio Sidoretti (July 2022, 5 months), University of Rome Tor Vergata, Italy
-- Michal Orsàk (March 2019, 4 months), Brno University Technology, Czech Republic
-- Xiangrui Yang (September 2019, 1 year), National University Defense Technology, China
+- Guorui Xie (2023-2024), Tsinghua University, China
+- Giulio Sidoretti (2022), University of Rome Tor Vergata, Italy
+- Michal Orsàk (2019), Brno University Technology, Czech Republic
+- Xiangrui Yang (2019-2020), National University Defense Technology, China
