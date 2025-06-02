@@ -26,9 +26,14 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
 
-### Graduate Students
+### Research Assistants
 
-- Open positions available
+- [Marco Molè]() (2025-), software support for programmable NICs
+
+### Visiting Students
+
+- [Baosen Zhao](https://jackmygreat.github.io/) (2025-), new primitives for RDMA networking
+
 
 <hr>
 
