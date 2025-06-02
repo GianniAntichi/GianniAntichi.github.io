@@ -34,7 +34,6 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 - [Baosen Zhao](https://jackmygreat.github.io/) (2025-), new primitives for RDMA networking
 
-
 <hr>
 
 ## Past Members
