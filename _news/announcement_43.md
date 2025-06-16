@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Kairo - Incremental View Maintenance for Scalable Virtual Switch Caching</i> got accepted to the poster session at <b>ACM SIGCOMM</b>! The work was led by [Annus Zulfiqar](https://annuszulfiqar-odafieu.gamma.site/).
+<i>Kairo - Incremental View Maintenance for Scalable Virtual Switch Caching</i> got accepted to the <b>poster session</b> at <b>ACM SIGCOMM</b>! The work was led by [Annus Zulfiqar](https://annuszulfiqar-odafieu.gamma.site/).

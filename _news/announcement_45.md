@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Software Prefetching for eBPF Programs</i> got accepted to the poster session at <b>ACM SIGCOMM</b>! The work was led by [Farbod Shahinfar](https://fshahinfar1.github.io/).
+<i>Software Prefetching for eBPF Programs</i> got accepted to the <b>poster session</b> at <b>ACM SIGCOMM</b>! The work was led by [Farbod Shahinfar](https://fshahinfar1.github.io/).
