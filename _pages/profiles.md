@@ -28,7 +28,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Research Assistants
 
-- [Marco Molè]() (2025-), software support for programmable NICs
+- [Marco Molè](https://marcomole00.github.io/) (2025-), software support for programmable NICs
 
 ### Visiting Students
 
