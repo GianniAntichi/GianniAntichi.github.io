@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I got awarded with a Cisco Research Gift to work on <i>Routing Traffic in AI/ML Datacenter Networks</i>!
-
