@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Marco Molè](https://marcomole00.github.io/) joins the group as a PhD student. He  will work on designing improved software stacks for high-performance SmartNICs.
+[Marco Molè](https://marcomole00.github.io/) joins the group as a PhD student. He will work on designing improved software stacks for high-performance SmartNICs.
