@@ -21,14 +21,11 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### PhD Students
 
+- [Marco Molè](https://marcomole00.github.io/) (2025-), software support for programmable NICs
 - [Francesco Maria Tranquillo]() (2025-), NIC-accelerated services (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
 - [Andrea Motta]() (2024-), smartNICs design (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
-
-### Research Assistants
-
-- [Marco Molè](https://marcomole00.github.io/) (2025-), software support for programmable NICs
 
 ### Visiting Students
 
