@@ -29,7 +29,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Research Assistants
 
-- [Davide Palmiotti]() (2025-), new primitives for datacenter monitoring
+- [Davide Palmiotti](https://mynam3isg00d.github.io/) (2025-), new primitives for datacenter monitoring
 
 ### Visiting Students
 
