@@ -11,15 +11,15 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 <hr>
 
-## Current Members
+## Current members
 
 <br>
 
-### Postdoctoral Researchers
+### Postdoctoral researchers
 
 - [Filippo Carloni]() (2025-), NIC acceleration
 
-### PhD Students
+### PhD students
 
 - [Marco Molè](https://marcomole00.github.io/) (2025-), software support for programmable NICs
 - [Francesco Maria Tranquillo]() (2025-), NIC-accelerated services (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
@@ -27,15 +27,15 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
 
-### Research Assistants
+### Research assistants
 
 - [Davide Palmiotti](https://mynam3isg00d.github.io/) (2025-), new primitives for datacenter monitoring
 
-### Research Assistants
+### Graduate students
 
 - [Osman Bugra Dagli]() (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
 
-### Visiting Students
+### Visiting students
 
 - [Baosen Zhao](https://jackmygreat.github.io/) (2025-), impact of network load balancing policies on RDMA traffic
 
