@@ -31,6 +31,10 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 - [Davide Palmiotti](https://mynam3isg00d.github.io/) (2025-), new primitives for datacenter monitoring
 
+### Research Assistants
+
+- [Osman Bugra Dagli]() (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
+
 ### Visiting Students
 
 - [Baosen Zhao](https://jackmygreat.github.io/) (2025-), impact of network load balancing policies on RDMA traffic
