@@ -34,6 +34,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 ### Graduate students
 
 - [Osman Bugra Dagli]() (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
+- [Emanuele Lovino]() (2026-), enabling SRV6 support on SimAI
 
 ### Visiting students
 
