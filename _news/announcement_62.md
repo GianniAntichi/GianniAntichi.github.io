@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Emanuele Lovino joins our group to do his final year project on <i>enabling SRV6 support for SimAI simulator</i>.
+Emanuele Lovino joins our group to do his final year project on <i>enabling SRv6 support for SimAI simulator</i>.
