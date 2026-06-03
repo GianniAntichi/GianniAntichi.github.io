@@ -37,10 +37,6 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Emanuele Lovino]() (2026-), enabling SRv6 support on SimAI
 - [Alessandro Costantini]() (2026-), SRv6 for the cloud
 
-### Visiting students
-
-- [Baosen Zhao](https://jackmygreat.github.io/) (2025-), impact of network load balancing policies on RDMA traffic
-
 <hr>
 
 ## Past Members
@@ -70,6 +66,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Research visitors
 
+- Baosen Zhao (2025-2026), Chinese Academy of Sciences, China
 - Guorui Xie (2023-2024), Tsinghua University, China
 - Giulio Sidoretti (2022), University of Rome Tor Vergata, Italy
 - Michal Orsàk (2019), Brno University Technology, Czech Republic
