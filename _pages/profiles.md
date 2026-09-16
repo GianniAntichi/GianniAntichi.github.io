@@ -36,6 +36,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - [Osman Bugra Dagli]() (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
 - [Emanuele Lovino]() (2026-), enabling SRv6 support on SimAI
 - [Alessandro Costantini]() (2026-), SRv6 for the cloud
+- [Riccardo Polelli](https://pole11.github.io/) (2026-), open-source MRC modules
 
 <hr>
 
