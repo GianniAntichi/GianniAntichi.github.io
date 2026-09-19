@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>dBBR: Enhance BBR Performance with Delay Information/i> got accepted at <b>ACM ATC</b>! The work was led by [Yibo Xiao](https://paul-georgeee.github.io/).
+<i>dBBR: Enhance BBR Performance with Delay Information/i> got accepted at <b>IEEE Transactions on Networking</b>! The work was led by [Yibo Xiao](https://paul-georgeee.github.io/).
