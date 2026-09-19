@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>State-Compute Replication: Parallelizing High-Speed Stateful Packet Processing</i> got accepted at <b>USENIX NSDI</b>! The work was led by [Qiongwen Xu](https://qiongwenxu.github.io/).
+<i>State-Compute Replication: Parallelizing High-Speed Stateful Packet Processing</i> got accepted at <b>USENIX NSDI</b>! The work was led by Qiongwen Xu.
