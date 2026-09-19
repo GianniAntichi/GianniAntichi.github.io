@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve [IEEE ICNP 2025]() as area chair! Submit your papers!
+Invited to serve IEEE ICNP 2025 as area chair! Submit your papers!

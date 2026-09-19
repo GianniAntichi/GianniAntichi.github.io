@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to the [ACM APnet 2025]() program committee! Submit your papers!
+Invited to the ACM APnet 2025 program committee! Submit your papers!

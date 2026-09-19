@@ -17,13 +17,13 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Postdoctoral researchers
 
-- [Filippo Carloni]() (2025-), NIC acceleration
+- Filippo Carloni (2025-), NIC acceleration
 
 ### PhD students
 
 - [Marco Molè](https://marcomole00.github.io/) (2025-), software support for programmable NICs
-- [Francesco Maria Tranquillo]() (2025-), NIC-accelerated services (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
-- [Andrea Motta]() (2024-), smartNICs design (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
+- Francesco Maria Tranquillo (2025-), NIC-accelerated services (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
+- Andrea Motta (2024-), smartNICs design (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
 - [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
 
@@ -33,9 +33,9 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Graduate students
 
-- [Osman Bugra Dagli]() (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
-- [Emanuele Lovino]() (2026-), enabling SRv6 support on SimAI
-- [Alessandro Costantini]() (2026-), SRv6 for the cloud
+- Osman Bugra Dagli (2026-), accelerating Media-over-Quic relay processing using advanced kernel features
+- Emanuele Lovino (2026-), enabling SRv6 support on SimAI
+- Alessandro Costantini (2026-), SRv6 for the cloud
 - [Riccardo Polelli](https://pole11.github.io/) (2026-), open-source MRC modules
 
 <hr>

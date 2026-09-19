@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally I found a template I like for a new website! Thanks [Nicola]() for the hint :smile:
+Finally I found a template I like for a new website! Thanks Nicola for the hint :smile:

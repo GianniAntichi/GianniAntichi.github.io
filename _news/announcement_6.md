@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<i>Lightweight Acquisition and Ranging of Flows in the Data Plane</i> got accepted at <b>ACM SIGMETRICS</b>! The work was led by [Andrea Monterubbiano]().
+<i>Lightweight Acquisition and Ranging of Flows in the Data Plane</i> got accepted at <b>ACM SIGMETRICS</b>! The work was led by Andrea Monterubbiano.

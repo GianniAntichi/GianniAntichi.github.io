@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Marco Molè]() joins the group as a research assistant. Marco will work on software support for programmable NICs.
+Marco Molè joins the group as a research assistant. Marco will work on software support for programmable NICs.

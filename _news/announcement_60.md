@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited to the [USENIX NSDI 2027]() program committee! Submit your papers!
+Invited to the USENIX NSDI 2027 program committee! Submit your papers!
