@@ -25,7 +25,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - Francesco Maria Tranquillo (2025-), NIC-accelerated services (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
 - Andrea Motta (2024-), smartNICs design (co-advised with [Davide Zoni](https://zoni.faculty.polimi.it/))
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (2023-), network stacks design
-- [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerate packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
+- [Salvator Galea](http://www.cl.cam.ac.uk/~sg774/) (2017-), hardware-accelerated packet-processing systems (co-advised with [Andrew W. Moore](https://www.cl.cam.ac.uk/~awm22/))
 
 ### Research assistants
 
@@ -70,5 +70,5 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - Baosen Zhao (2025-2026), Chinese Academy of Sciences, China
 - Guorui Xie (2023-2024), Tsinghua University, China
 - Giulio Sidoretti (2022), University of Rome Tor Vergata, Italy
-- Michal Orsàk (2019), Brno University Technology, Czech Republic
-- Xiangrui Yang (2019-2020), National University Defense Technology, China
+- Michal Orsàk (2019), Brno University of Technology, Czech Republic
+- Xiangrui Yang (2019-2020), National University of Defense Technology, China
