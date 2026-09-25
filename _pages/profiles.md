@@ -40,6 +40,8 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 <hr>
 
+<div class="past-members" markdown="1">
+
 ## Past Members
 
 <br>
@@ -72,3 +74,5 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - Giulio Sidoretti (2022), University of Rome Tor Vergata, Italy
 - Michal Orsàk (2019), Brno University of Technology, Czech Republic
 - Xiangrui Yang (2019-2020), National University of Defense Technology, China
+
+</div>

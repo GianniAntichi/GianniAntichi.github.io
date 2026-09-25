@@ -190,6 +190,13 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// Past members (team page) - mute headings to set them apart from
+// current members
+.past-members h2,
+.past-members h3 {
+  color: var(--global-text-color-light);
+}
+
 // Profile
 
 .profile {
