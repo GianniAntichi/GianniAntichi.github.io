@@ -227,6 +227,28 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// On small screens, show the bio text before the profile photo/address block
+// (rather than the DOM order, photo-then-bio) and keep the photo from
+// dominating the viewport.
+@media (max-width: 575px) {
+  article.about-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  article.about-content > .clearfix {
+    order: -2;
+  }
+
+  article.about-content > .profile {
+    order: -1;
+    float: none;
+    width: 55%;
+    max-width: 260px;
+    margin: 0 auto 1.5rem;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
