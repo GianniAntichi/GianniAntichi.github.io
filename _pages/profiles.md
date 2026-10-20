@@ -37,6 +37,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 - Emanuele Lovino (2026-), enabling SRv6 support on SimAI
 - Alessandro Costantini (2026-), SRv6 for the cloud
 - [Riccardo Polelli](https://pole11.github.io/) (2026-), open-source MRC modules
+- Mandal Amiri (2026-), enabling XDP to program NIC-resident offloads
 
 <hr>
 
