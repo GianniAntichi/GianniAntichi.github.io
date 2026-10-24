@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Filippo Carloni](https://www.linkedin.com/in/filippo-carloni/) joins our group as CNIT (National Inter-University Consortium for Telecommunications) Researcher. His expertise is on compilers and domain-specific architectures.
+[Filippo Carloni](https://filippocarloni.github.io/) joins our group as CNIT (National Inter-University Consortium for Telecommunications) Researcher. His expertise is on compilers and domain-specific architectures.

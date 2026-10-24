@@ -17,7 +17,7 @@ I supervise PhDs in the (broad) area of <b>networks</b> and <b>systems</b>. Most
 
 ### Postdoctoral researchers
 
-- Filippo Carloni (2025-), NIC acceleration
+- [Filippo Carloni](https://filippocarloni.github.io/) (2025-), NIC acceleration
 
 ### PhD students
 
